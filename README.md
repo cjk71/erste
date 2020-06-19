@@ -1,1 +1,1 @@
-# Trying to deploy a docker container with ansible 
+# Deploying a docker container using ansible
